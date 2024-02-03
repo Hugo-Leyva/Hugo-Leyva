@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hugo-Leyva
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning technologies like back end, cloud data administration and data analysis in and out the cloud.
+- 🌱 I’m currently learning technologies mostly back-end and data analysis, also cloud administration (Saas, Paas, Iaas).
 - 💞️ I’m looking to collaborate in projects that want to analyze data and take decisions.
 - 📫 How to reach me ...
 
